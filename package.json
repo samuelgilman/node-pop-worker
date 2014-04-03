@@ -1,0 +1,12 @@
+{
+  "name": "node-pop-worker",
+  "version": "1.0.0",
+  "private": false,
+  "engines": {
+     "node": "*",
+     "npm":  "*"
+  },
+  "dependencies": {
+    "node-pop" : "1.2.0"
+  }
+}
